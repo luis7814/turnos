@@ -1,4 +1,4 @@
-package com.asw.turnos;
+package com.asw.shifts;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

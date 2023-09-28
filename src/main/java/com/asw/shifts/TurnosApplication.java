@@ -1,4 +1,4 @@
-package com.asw.turnos;
+package com.asw.shifts;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
